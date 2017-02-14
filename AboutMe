@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title> AboutMe </title>
+		<meta charset="utf-8">
+		<!--*********************************************************
+		Ryan Schulz CIS 130-120
+		01/26/17
+		"About You"
+		index.html
+    **********************************************************-->
+    
+		<style>
+			body {background-image:url("Sunset_in_the_Murkwoods.jpg");
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size: 100% 100%;
+			background-attachment: fixed;
+			}
+		</style>
+
+	</head>
+	<body style="text-align:center;">
+
+		<header><h1 style="color:white;"><u> About Me </u></h1></header>
+		<img src="Ryan2.jpg" alt="Ryan's Grad photo" style="width:414px;height:580px;">
+		<img src="Ryan_Profile.jpg" alt="Ryan's Professional photo" style="width:414px;height:580px;">
+		<img src="Ryan_Picture.jpg" alt="Ryan's good photo" style="width:414px;height:580px;">
+		
+		<div style="padding-left:125px;padding-right:125px;">
+			<div style="background-color:white;">
+			<h1> Ryan Schulz </h1>
+				<h3> My Hobbies </h3>
+					<p> Hunting and fishing </p>
+					<p> Programming </p>
+					<p> Designing 3D models </p>
+					<p> GAMING </p>
+				<h3> Reason for taking Web Developement </h3>
+					<p> Making websites is cool and fun </p>
+					<p> P.S. I am loving the Web Developement class </p>
+				<h3> Bet you did not know! </h3>
+					<p> I am a black belt in Tae-Kwon-Do. </p>
+					<p style="padding-bottom:15px"> I have been to Hawaii with my High School band. </p>
+			</div>
+		</div>
+		
+		<footer style="text-align:center;color:white;"> Copyright &copy; AboutMe.com </footer>
+	</body>
+</html>
